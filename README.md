@@ -1,2 +1,2 @@
 # DLR_Filters_Localisation
-Project on Dynamical Low-Rank Filters enhanced by Localisation ongoing...
+Project on Dynamical Low-Rank Filters enhanced by Localisation (ongoing)
